@@ -12,7 +12,6 @@ class App extends React.Component {
       n: state.n+1
     }))
   }
-
   render() {
     return (
       <div>
